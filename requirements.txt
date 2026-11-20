@@ -1,0 +1,2 @@
+# Dataset preparation and Python tests use only Python 3.10+ standard library.
+# Scala/Spark application dependencies and versions are declared in build.sbt.

@@ -1,0 +1,12 @@
+target/
+project/target/
+project/project/
+.bsp/
+.metals/
+.idea/
+.vscode/
+__pycache__/
+.venv/
+outputs/runs/
+outputs/event_logs/
+data/raw/*.zip

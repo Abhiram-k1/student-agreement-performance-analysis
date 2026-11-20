@@ -1,0 +1,14 @@
+{
+  "source_url": "https://archive.ics.uci.edu/static/public/697/predict+students+dropout+and+academic+success.zip",
+  "retrieval_url": "https://raw.githubusercontent.com/gilljaskaran/mlops-student-dropout-pipeline/main/data/raw/data.csv",
+  "license": "CC BY 4.0",
+  "source_sha256": "19737f02127e85ef29af536e46888a7721b6c530c3e1c6aedfbb09109c030a71",
+  "semester": 1,
+  "source_records": 4424,
+  "processed_records": 4075,
+  "omitted_no_evaluations": 349,
+  "sample_records": 100,
+  "marks_transformation": "source semester grade multiplied by 5",
+  "department_transformation": "Course_ followed by the source Course code",
+  "identity_transformation": "deterministic anonymous source row labels"
+}
