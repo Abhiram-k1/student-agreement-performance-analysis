@@ -10,7 +10,7 @@ Provide your GitHub repository URL. Ensure that the repository is accessible.
 
 ## 2. Source Code ZIP File (Google Drive Link)
 
-[Pending actual Drive upload and verified shareable link]
+https://drive.google.com/file/d/1x1I70lU-awQO7L32Y0gF4869Ip3PgY8g/view?usp=drive_link
 
 Upload your complete source code as a ZIP file to Google Drive and paste its shareable link here. Use `01_Source_Code.zip`.
 
@@ -28,7 +28,7 @@ The uploaded assignment CSV is the documented adaptation of measured semester gr
 
 ## 4. Dataset Upload (Below 10 MB)
 
-[Pending actual Drive upload and verified shareable link]
+https://drive.google.com/file/d/1h04gjj8OUrMtc6GMbZFXTIwqy8GkC70m/view?usp=drive_link
 
 Upload your dataset to Google Drive. The dataset must be below 10 MB. Paste the shareable Google Drive link here. Use `data/processed/03_Dataset.csv` and verify its size before uploading.
 
@@ -37,7 +37,7 @@ Upload your dataset to Google Drive. The dataset must be below 10 MB. Paste the 
 - Run the required Scala RDD pipeline and retain the result tables.
 - Examine the generated Spark DAG using the live UI or saved event logs.
 - Explain transformations, actions, lazy evaluation and cluster task distribution in your submission discussion.
-- Add your repository/Drive links and check their accessibility.
+- Repository and Drive links are populated; retain the pipeline execution evidence before final evaluation.
 
 The screenshot has no additional submission fields or prescribed report format. This project supplies requirement traceability and methodology for your review.
 
@@ -45,7 +45,7 @@ The screenshot has no additional submission fields or prescribed report format. 
 
 Dataset information Word document
 
-[Pending actual Drive upload and verified shareable link]
+https://drive.google.com/file/d/1cK5ihSekkBzndJIGLxzLhJXHBYLOv9G2/view?usp=drive_link
 
 Main BDA Skill Assignments folder
 
